@@ -1,8 +1,8 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
-    "version": "5.0.2",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "title": "Codescheme",
+    "name": "codescheme",
+    "version": "0.3",
+    "description": "HTML theme for Bootstrap.",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,12 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://codescheme.co.uk",
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Codescheme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/codescheme/codescheme.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.3.1",
